@@ -6,3 +6,5 @@ This project aims to grasp some basic techniques for image data classification t
 - regularization techniques;
 - 1Cycle Policy (scheduling both learning rate and momentum value);
 - MonteCarlo AlphaDropout.
+
+Dataset: CIFAR10.
